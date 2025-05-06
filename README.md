@@ -4,11 +4,11 @@ The darknet provides a haven for users seeking anonymity and access to unique go
 
 ## Archetyp Onion: Accessing the Darknet Marketplace
 
-http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion
+http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion
 
-[<img src="/image/stack.webp" width="200">](http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion)
+[<img src="/static/column.webp" width="200">](http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion)
 
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/image/graph.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/static/temp.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
 
 This content is strictly educational and is designed to offer insights into the workings of the dark web. We do not receive commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Furthermore, we do not support or promote any illegal activities.
 
@@ -47,8 +47,8 @@ Always bear in mind that participating in the darknet carries both legal and tec
 
 If you are prepared to explore Archetyp: Market, here are the vital links to get started:
 
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/image/control.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/image/console.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/static/delta.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/static/image.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
 
 ---
 
